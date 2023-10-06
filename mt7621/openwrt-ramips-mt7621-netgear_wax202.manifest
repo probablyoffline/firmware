@@ -15,7 +15,7 @@ iwinfo - 2023-07-01-ca79f641-1
 jansson4 - 2.14-3
 jshn - 2023-05-23-75a3b870-1
 jsonfilter - 2018-02-04-c7e938d6-1
-kernel - 5.15.132-1-b798f89ad4f445d3d0e2b339476d031a
+kernel - 5.15.132-1-d99b8ef1a7b2c6f12f40bab45e0e5b10
 kmod-cfg80211 - 5.15.132+6.5-1
 kmod-crypto-acompress - 5.15.132-1
 kmod-crypto-aead - 5.15.132-1
@@ -46,11 +46,13 @@ kmod-crypto-sha256 - 5.15.132-1
 kmod-crypto-sha512 - 5.15.132-1
 kmod-gpio-button-hotplug - 5.15.132-3
 kmod-hwmon-core - 5.15.132-1
+kmod-ipvlan - 5.15.132-1
 kmod-leds-gpio - 5.15.132-1
 kmod-lib-crc-ccitt - 5.15.132-1
 kmod-lib-crc32c - 5.15.132-1
 kmod-lib-lzo - 5.15.132-1
 kmod-mac80211 - 5.15.132+6.5-1
+kmod-macvlan - 5.15.132-1
 kmod-mt76-connac - 5.15.132+2023-09-18-2afc7285-1
 kmod-mt76-core - 5.15.132+2023-09-18-2afc7285-1
 kmod-mt7915-firmware - 5.15.132+2023-09-18-2afc7285-1
